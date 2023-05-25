@@ -4,6 +4,7 @@
 игрок подключается к терминалу (ssh), через мини-игру или ресурсы, выполняет actions или грузит скрипт
 ворует данные, деньги, скрипты
 
+Пример: 
 **Payload**
 AOE: Local Network
 Actions: scp /home/joe/banking/.session
