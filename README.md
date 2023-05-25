@@ -1,6 +1,24 @@
 # netmmo
 
-**Payload = AOE Local Network + Download Data + Script**
+открытый мир, устройства которого общаются через сеть
+игрок подключается к терминалу (ssh), через мини-игру или ресурсы, выполняет actions или грузит скрипт
+ворует данные, деньги, скрипты
+
+**Payload**
+AOE: Local Network
+Actions: scp /home/joe/banking/.session
+Script: None
+
+**Payload**
+AOE: Direct
+Actions: shutdown
+Script: None
+
+**Payload**
+AOE: Near 
+Actions: upload script
+Script: _anal destroyer.sh_
+
 _в локальной сети со всех устройств скачиваются данные, на них загружается наш скрипт_
 
 ## концепт локальных сетей
